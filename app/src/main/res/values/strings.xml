@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">apsI</string>
+    <string name="nomeFruta">Nome da fruta</string>
+    <string name="precoFruta">Preço</string>
+    <string name="mesColheita">Mês da colheita</string>
+    <string name="txtBtSalvar">Salvar</string>
+</resources>
